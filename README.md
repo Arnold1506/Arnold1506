@@ -9,18 +9,16 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I really love Programming.
 
-<br>
+
 
 <a href="https://github.com/Arnold1506">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnold1506&theme=radical&hide=glsl,python" />
 </a>
-
-<br>
+<br><br>
 <a href="https://github.com/Arnold1506">
 <img src="https://github-readme-stats.vercel.app/api?username=Arnold1506&&show_icons=true&theme=radical&line_height=27&v=5" alt="Aniket's GitHub Stats" />
 </a>
-
-<br>
+<br><br>
 <a href="https://github.com/Arnold1506/Knockout2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arnold1506&repo=Knockout2&theme=radical" />
 </a>    

@@ -20,7 +20,7 @@
 
 <a href="https://github.com/Arnold1506/Knockout2">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arnold1506&repo=Covid-19-Data-Analysis&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arnold1506&repo=Knockout2&theme=radical" />
 </a>    
 
 <!--

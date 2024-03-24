@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I really love Programming.
 
-<br/>
+<br>
 
 <a href="https://github.com/Arnold1506" styles=>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnold1506&theme=radical&hide=glsl,python" />
